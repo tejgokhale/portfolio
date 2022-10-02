@@ -1,0 +1,850 @@
+Respondent #,q5,q6,race
+501,Agree,Agree,White
+502,Agree,Agree,White
+503,Agree,Agree,White
+504,Neutral,Neutral,White
+505,Agree,Agree,White
+506,Agree,Agree,White
+507,Agree,Agree,White
+508,Agree,Agree,White
+509,Agree,Agree,White
+510,Neutral,Neutral,White
+511,Agree,Neutral,White
+512,Neutral,Disagree,White
+513,Agree,Agree,White
+514,Agree,Prefer Not to Say,White
+515,Agree,Disagree,White
+516,Agree,Agree,White
+517,Neutral,Neutral,White
+518,Agree,Agree,White
+519,Agree,Agree,White
+520,Agree,Neutral,White
+521,Agree,Agree,White
+522,Agree,Agree,Asian
+523,Neutral,Agree,Hispanic or Latino
+524,Neutral,Agree,Asian
+525,Agree,Agree,White
+526,Agree,Agree,White
+527,Agree,Agree,White
+528,Neutral,Neutral,White
+529,Neutral,Neutral,White
+530,Agree,Agree,Asian
+531,Agree,Agree,White
+532,Neutral,Prefer Not to Say,White
+533,Agree,Agree,Hispanic or Latino
+534,Neutral,Disagree,Hispanic or Latino
+535,Agree,Agree,White
+536,Neutral,Prefer Not to Say,White
+537,Agree,Neutral,White
+538,Agree,Neutral,White
+539,Agree,Agree,White
+540,Agree,Agree,White
+541,Neutral,Agree,White
+542,Agree,Neutral,White
+543,Agree,Neutral,White
+544,Agree,Prefer Not to Say,White
+545,Agree,Agree,White
+546,Agree,Agree,White
+547,Agree,Agree,White
+548,Agree,Agree,White
+549,Agree,Agree,White
+550,Agree,Agree,White
+551,Agree,Disagree,White
+552,Agree,Agree,White
+553,Agree,Agree,White
+554,Agree,Agree,Hispanic or Latino
+555,Agree,Neutral,White
+556,Agree,Neutral,White
+557,Agree,Agree,White
+558,Agree,Disagree,White
+559,Agree,Agree,White
+560,Neutral,Neutral,White
+561,Agree,Agree,Hispanic or Latino
+562,Neutral,Agree,White
+563,Agree,Agree,White
+564,Agree,Agree,Hispanic or Latino
+565,Agree,Agree,White
+566,Agree,Agree,White
+567,Agree,Agree,White
+568,Neutral,Neutral,White
+569,Agree,Agree,White
+570,Agree,Agree,White
+571,Agree,Agree,White
+572,Neutral,Agree,White
+573,Agree,Agree,Hispanic or Latino
+574,Agree,Agree,Black or African American
+575,Agree,Neutral,White
+576,Agree,Agree,Hispanic or Latino
+577,Agree,Agree,White
+578,Agree,Agree,White
+579,Neutral,Agree,White
+580,Agree,Agree,White
+581,Neutral,Agree,White
+582,Agree,Agree,Hispanic or Latino
+583,Agree,Neutral,White
+584,Agree,Agree,White
+585,Agree,Agree,White
+586,Agree,Agree,White
+587,Agree,Neutral,White
+588,Agree,Agree,Asian
+589,Agree,Agree,White
+590,Agree,Agree,Asian
+591,Agree,Agree,White
+592,Neutral,Neutral,White
+593,Neutral,Neutral,White
+594,Agree,Agree,White
+595,Agree,Agree,White
+596,Neutral,Neutral,White
+597,Agree,Agree,White
+598,Agree,Agree,Two or more races
+599,Agree,Agree,White
+600,Agree,Agree,White
+601,Agree,Neutral,White
+602,Agree,Agree,White
+603,Neutral,Neutral,White
+604,Agree,Agree,White
+605,Disagree,Disagree,Two or more races
+606,Agree,Agree,White
+607,Agree,Agree,White
+608,Agree,Agree,White
+609,Prefer Not to Say,Agree,White
+610,Agree,Agree,Black or African American
+611,Agree,Agree,White
+612,Agree,Agree,White
+613,Agree,Agree,Hispanic or Latino
+614,Neutral,Neutral,Hispanic or Latino
+615,Agree,Agree,White
+616,Neutral,Agree,White
+617,Agree,Agree,White
+618,Agree,Agree,White
+619,Agree,Agree,White
+620,Agree,Agree,White
+621,Agree,Agree,White
+622,Neutral,Agree,White
+623,Neutral,Disagree,Hispanic or Latino
+624,Neutral,Agree,White
+625,Agree,Agree,White
+626,Agree,Neutral,White
+627,Agree,Agree,White
+628,Neutral,Agree,Two or more races
+629,Agree,Agree,Hispanic or Latino
+630,Agree,Agree,Black or African American
+631,Neutral,Neutral,White
+632,Neutral,Agree,White
+633,Agree,Agree,White
+634,Neutral,Disagree,White
+635,Agree,Neutral,White
+636,Neutral,Prefer Not to Say,White
+637,Neutral,Neutral,White
+638,Neutral,Neutral,White
+639,Agree,Neutral,White
+640,Neutral,Agree,White
+641,Agree,Agree,White
+642,Neutral,Neutral,Hispanic or Latino
+643,Agree,Agree,White
+644,Agree,Neutral,Two or more races
+645,Agree,Neutral,Asian
+646,Agree,Agree,White
+647,Agree,Neutral,Asian
+648,Agree,Agree,White
+649,Agree,Agree,White
+650,Neutral,Neutral,Hispanic or Latino
+651,Agree,Agree,White
+652,Agree,Neutral,White
+653,Neutral,Agree,Hispanic or Latino
+654,Neutral,Agree,White
+655,Agree,Agree,Two or more races
+656,Neutral,Agree,White
+657,Agree,Neutral,Black or African American
+658,Agree,Agree,White
+659,Agree,Agree,White
+660,Agree,Agree,White
+661,Agree,Agree,White
+662,Neutral,Neutral,White
+663,Neutral,Neutral,White
+664,Agree,Agree,White
+665,Agree,Agree,Black or African American
+666,Agree,Agree,White
+667,Agree,Neutral,White
+668,Neutral,Agree,White
+669,Neutral,Neutral,Hispanic or Latino
+670,Agree,Neutral,White
+671,Neutral,Disagree,White
+672,Agree,Neutral,White
+673,Agree,Agree,White
+674,Neutral,Agree,White
+675,Neutral,Agree,White
+676,Agree,Neutral,White
+677,Neutral,Neutral,Black or African American
+678,Agree,Agree,White
+679,Agree,Agree,White
+680,Agree,Agree,White
+681,Agree,Agree,White
+682,Neutral,Agree,White
+683,Agree,Disagree,White
+684,Agree,Agree,White
+685,Agree,Neutral,Hispanic or Latino
+686,Agree,Agree,White
+687,Agree,Agree,White
+688,Agree,Agree,White
+689,Agree,Agree,White
+690,Agree,Agree,White
+691,Agree,Agree,White
+692,Agree,Agree,White
+693,Disagree,Neutral,White
+694,Agree,Agree,White
+695,Agree,Agree,White
+696,Agree,Agree,White
+697,Neutral,Agree,Asian
+698,Agree,Agree,White
+699,Agree,Neutral,White
+700,Agree,Agree,White
+701,Neutral,Agree,White
+702,Agree,Agree,White
+703,Neutral,Neutral,Two or more races
+704,Agree,Agree,White
+705,Agree,Agree,White
+706,Agree,Agree,White
+707,Neutral,Agree,White
+708,Agree,Agree,White
+709,Neutral,Prefer Not to Say,Black or African American
+710,Agree,Agree,White
+711,Agree,Agree,Hispanic or Latino
+712,Agree,Agree,White
+713,Neutral,Disagree,White
+714,Agree,Agree,White
+715,Neutral,Agree,White
+716,Neutral,Disagree,Hispanic or Latino
+717,Agree,Agree,Hispanic or Latino
+718,Agree,Agree,White
+719,Agree,Agree,White
+720,Agree,Agree,White
+721,Agree,Agree,Asian
+722,Agree,Agree,White
+723,Agree,Agree,White
+724,Agree,Agree,White
+725,Neutral,Neutral,Black or African American
+726,Agree,Agree,White
+727,Agree,Agree,White
+728,Agree,Agree,White
+729,Agree,Agree,White
+730,Agree,Agree,White
+731,Agree,Agree,White
+732,Agree,Agree,White
+733,Agree,Disagree,Two or more races
+734,Agree,Agree,Asian
+735,Neutral,Disagree,Two or more races
+736,Neutral,Agree,Black or African American
+737,Neutral,Prefer Not to Say,Asian
+738,Agree,Agree,Hispanic or Latino
+739,Neutral,Prefer Not to Say,Black or African American
+740,Neutral,Agree,White
+741,Agree,Agree,White
+742,Neutral,Neutral,White
+743,Neutral,Neutral,Two or more races
+744,Agree,Agree,White
+745,Agree,Agree,White
+746,Neutral,Disagree,White
+747,Agree,Agree,White
+748,Neutral,Agree,White
+749,Agree,Neutral,White
+750,Neutral,Agree,White
+751,Agree,Agree,White
+752,Agree,Agree,White
+753,Neutral,Agree,White
+754,Agree,Neutral,White
+755,Agree,Agree,White
+756,Agree,Agree,White
+757,Neutral,Neutral,White
+758,Neutral,Agree,Asian
+759,Agree,Agree,Hispanic or Latino
+760,Agree,Agree,Two or more races
+761,Neutral,Neutral,White
+762,Agree,Agree,Hispanic or Latino
+763,Agree,Agree,White
+764,Neutral,Disagree,White
+765,Agree,Agree,Two or more races
+766,Agree,Agree,White
+767,Agree,Agree,White
+768,Agree,Neutral,Hispanic or Latino
+769,Agree,Agree,Two or more races
+770,Agree,Agree,White
+771,Agree,Agree,White
+772,Neutral,Neutral,White
+773,Neutral,Neutral,White
+774,Agree,Agree,White
+775,Agree,Agree,White
+776,Agree,Agree,Hispanic or Latino
+777,Agree,Agree,White
+778,Disagree,Disagree,White
+779,Agree,Agree,White
+780,Disagree,Disagree,White
+781,Agree,Neutral,White
+782,Agree,Agree,Hispanic or Latino
+783,Agree,Agree,Hispanic or Latino
+784,Agree,Agree,White
+785,Agree,Agree,White
+786,Agree,Agree,White
+787,Agree,Agree,White
+788,Agree,Agree,White
+789,Agree,Agree,Asian
+790,Agree,Agree,Asian
+791,Neutral,Agree,White
+792,Agree,Agree,White
+793,Agree,Agree,White
+794,Agree,Prefer Not to Say,Hispanic or Latino
+795,Agree,Agree,Hispanic or Latino
+796,Agree,Agree,White
+797,Neutral,Agree,White
+798,Agree,Agree,White
+799,Neutral,Neutral,White
+800,Agree,Agree,White
+801,Agree,Agree,White
+802,Neutral,Agree,Two or more races
+803,Neutral,Agree,White
+804,Neutral,Agree,White
+805,Agree,Agree,White
+806,Agree,Prefer Not to Say,White
+807,Agree,Agree,White
+808,Agree,Agree,White
+809,Agree,Agree,White
+810,Agree,Agree,White
+811,Agree,Agree,White
+812,Agree,Agree,White
+813,Neutral,Agree,Asian
+814,Neutral,Neutral,White
+815,Neutral,Neutral,Asian
+816,Agree,Agree,White
+817,Agree,Agree,White
+818,Agree,Agree,White
+819,Agree,Agree,Hispanic or Latino
+820,Agree,Agree,White
+821,Agree,Agree,Asian
+822,Agree,Neutral,White
+823,Agree,Agree,White
+824,Agree,Agree,White
+825,Agree,Agree,Hispanic or Latino
+826,Agree,Agree,White
+827,Neutral,Neutral,White
+828,Agree,Agree,White
+829,Agree,Agree,Hispanic or Latino
+830,Agree,Agree,White
+831,Agree,Agree,White
+832,Prefer Not to Say,Prefer Not to Say,White
+833,Agree,Agree,White
+834,Agree,Agree,White
+835,Agree,Agree,White
+836,Agree,Agree,White
+837,Agree,Agree,White
+838,Agree,Agree,White
+839,Agree,Agree,White
+840,Agree,Agree,Hispanic or Latino
+841,Agree,Agree,Asian
+842,Agree,Agree,Two or more races
+843,Agree,Agree,White
+844,Agree,Agree,White
+845,Agree,Agree,White
+846,Agree,Agree,Asian
+847,Agree,Agree,White
+848,Agree,Agree,Asian
+849,Agree,Agree,Black or African American
+850,Agree,Neutral,White
+851,Neutral,Neutral,White
+852,Agree,Agree,Asian
+853,Agree,Agree,Black or African American
+854,Agree,Agree,White
+855,Agree,Agree,Black or African American
+856,Agree,Agree,White
+857,Agree,Agree,White
+858,Agree,Agree,White
+859,Neutral,Agree,White
+860,Agree,Agree,Asian
+861,Agree,Agree,White
+862,Agree,Agree,White
+863,Agree,Neutral,White
+864,Agree,Agree,White
+865,Agree,Agree,White
+866,Agree,Agree,White
+867,Agree,Agree,Black or African American
+868,Agree,Agree,Hispanic or Latino
+869,Agree,Agree,White
+870,Agree,Agree,White
+871,Agree,Agree,White
+872,Agree,Neutral,Hispanic or Latino
+873,Agree,Agree,Hispanic or Latino
+874,Agree,Agree,Asian
+875,Agree,Agree,Hispanic or Latino
+876,Neutral,Agree,White
+877,Prefer Not to Say,Agree,Black or African American
+878,Agree,Agree,White
+879,Agree,Prefer Not to Say,White
+880,Agree,Agree,Black or African American
+881,Agree,Agree,White
+882,Agree,Prefer Not to Say,White
+883,Neutral,Disagree,Hispanic or Latino
+884,Agree,Disagree,Two or more races
+885,Agree,Agree,White
+886,Agree,Neutral,White
+887,Neutral,Prefer Not to Say,White
+888,Neutral,Neutral,White
+889,Prefer Not to Say,Disagree,White
+890,Agree,Agree,White
+891,Agree,Agree,Asian
+892,Neutral,Agree,White
+893,Neutral,Agree,White
+894,Agree,Neutral,White
+895,Agree,Agree,White
+896,Agree,Agree,White
+897,Agree,Agree,White
+898,Agree,Agree,Two or more races
+899,Agree,Agree,White
+900,Agree,Agree,Hispanic or Latino
+901,Agree,Agree,White
+902,Agree,Neutral,White
+903,Agree,Agree,Asian
+904,Agree,Agree,White
+905,Agree,Agree,White
+906,Agree,Agree,White
+907,Agree,Agree,White
+908,Neutral,Agree,White
+909,Agree,Agree,White
+910,Neutral,Agree,White
+911,Agree,Agree,White
+912,Agree,Agree,White
+913,Agree,Prefer Not to Say,White
+914,Neutral,Neutral,White
+915,Neutral,Disagree,White
+916,Agree,Agree,White
+917,Agree,Agree,White
+918,Neutral,Agree,White
+919,Agree,Agree,White
+920,Neutral,Neutral,White
+921,Agree,Agree,White
+922,Neutral,Neutral,Black or African American
+923,Neutral,Agree,White
+924,Agree,Agree,White
+925,Agree,Agree,White
+926,Neutral,Disagree,White
+927,Agree,Agree,Hispanic or Latino
+928,Agree,Neutral,White
+929,Agree,Agree,Two or more races
+930,Neutral,Agree,White
+931,Agree,Agree,White
+932,Agree,Agree,White
+933,Agree,Agree,Two or more races
+934,Neutral,Neutral,White
+935,Agree,Agree,Asian
+936,Agree,Agree,White
+937,Agree,Agree,Black or African American
+938,Agree,Agree,White
+939,Neutral,Neutral,White
+940,Agree,Agree,White
+941,Agree,Neutral,White
+942,Agree,Agree,White
+943,Agree,Agree,White
+944,Neutral,Agree,White
+945,Agree,Neutral,Black or African American
+946,Neutral,Agree,White
+947,Agree,Agree,Asian
+948,Agree,Agree,White
+949,Agree,Agree,White
+950,Agree,Prefer Not to Say,White
+951,Agree,Agree,White
+952,Agree,Agree,Hispanic or Latino
+953,Agree,Agree,White
+954,Agree,Agree,White
+955,Agree,Agree,White
+956,Neutral,Agree,White
+957,Agree,Agree,White
+958,Agree,Agree,White
+959,Agree,Neutral,Asian
+960,Neutral,Neutral,Asian
+961,Agree,Disagree,Black or African American
+962,Agree,Neutral,White
+963,Agree,Agree,White
+964,Agree,Agree,White
+965,Agree,Agree,White
+966,Agree,Agree,Two or more races
+967,Agree,Agree,White
+968,Agree,Disagree,White
+969,Neutral,Agree,White
+970,Agree,Neutral,White
+971,Agree,Agree,White
+972,Agree,Agree,White
+973,Agree,Neutral,White
+974,Agree,Disagree,White
+975,Agree,Agree,White
+976,Agree,Neutral,White
+977,Agree,Agree,White
+978,Agree,Agree,White
+979,Agree,Agree,White
+980,Agree,Agree,White
+981,Agree,Agree,White
+982,Agree,Agree,White
+983,Neutral,Agree,White
+984,Agree,Agree,White
+985,Agree,Agree,White
+986,Agree,Neutral,White
+987,Agree,Agree,Asian
+988,Neutral,Neutral,White
+989,Agree,Agree,Asian
+990,Agree,Agree,White
+991,Agree,Agree,Hispanic or Latino
+992,Agree,Agree,White
+993,Agree,Agree,White
+994,Agree,Agree,White
+995,Neutral,Agree,White
+996,Agree,Agree,White
+997,Neutral,Agree,White
+998,Agree,Agree,Asian
+999,Neutral,Neutral,White
+1000,Agree,Agree,Black or African American
+1001,Neutral,Agree,White
+1002,Agree,Agree,White
+1003,Agree,Agree,Asian
+1004,Agree,Agree,White
+1005,Agree,Agree,White
+1006,Agree,Agree,White
+1007,Neutral,Neutral,Asian
+1008,Agree,Prefer Not to Say,White
+1009,Neutral,Agree,White
+1010,Agree,Agree,Asian
+1011,Prefer Not to Say,Agree,White
+1012,Agree,Agree,White
+1013,Agree,Agree,Black or African American
+1014,Agree,Agree,White
+1015,Agree,Agree,Black or African American
+1016,Agree,Agree,White
+1017,Agree,Agree,White
+1018,Agree,Neutral,Black or African American
+1019,Agree,Agree,White
+1020,Agree,Agree,Asian
+1021,Neutral,Disagree,White
+1022,Agree,Agree,White
+1023,Agree,Agree,White
+1024,Neutral,Disagree,White
+1025,Agree,Agree,White
+1026,Agree,Agree,Black or African American
+1027,Agree,Agree,Asian
+1028,Agree,Agree,White
+1029,Neutral,Agree,White
+1030,Agree,Agree,White
+1031,Agree,Agree,White
+1032,Agree,Neutral,White
+1033,Agree,Neutral,White
+1034,Agree,Agree,White
+1035,Agree,Agree,Asian
+1036,Prefer Not to Say,Agree,White
+1037,Agree,Disagree,White
+1038,Neutral,Disagree,Hispanic or Latino
+1039,Agree,Agree,White
+1040,Agree,Agree,White
+1041,Neutral,Agree,Black or African American
+1042,Agree,Agree,White
+1043,Agree,Agree,White
+1044,Agree,Agree,White
+1045,Agree,Neutral,White
+1046,Agree,Agree,White
+1047,Neutral,Agree,White
+1048,Agree,Agree,Two or more races
+1049,Agree,Agree,White
+1050,Agree,Agree,Asian
+1051,Agree,Agree,White
+1052,Agree,Neutral,White
+1053,Agree,Agree,Black or African American
+1054,Agree,Agree,Asian
+1055,Agree,Agree,Two or more races
+1056,Agree,Agree,White
+1057,Agree,Agree,White
+1058,Agree,Agree,White
+1059,Neutral,Neutral,White
+1060,Agree,Agree,White
+1061,Agree,Agree,Asian
+1062,Agree,Agree,White
+1063,Agree,Prefer Not to Say,White
+1064,Agree,Agree,White
+1065,Agree,Agree,White
+1066,Agree,Agree,White
+1067,Agree,Agree,White
+1068,Agree,Agree,Asian
+1069,Agree,Agree,White
+1070,Agree,Agree,White
+1071,Agree,Agree,White
+1072,Neutral,Agree,White
+1073,Neutral,Agree,White
+1074,Agree,Agree,Hispanic or Latino
+1075,Agree,Agree,White
+1076,Agree,Agree,White
+1077,Agree,Neutral,White
+1078,Agree,Agree,White
+1079,Agree,Agree,White
+1080,Neutral,Agree,Two or more races
+1081,Agree,Agree,White
+1082,Agree,Prefer Not to Say,White
+1083,Neutral,Neutral,White
+1084,Agree,Prefer Not to Say,White
+1085,Agree,Agree,Two or more races
+1086,Agree,Agree,White
+1087,Agree,Agree,Hispanic or Latino
+1088,Agree,Neutral,Asian
+1089,Agree,Agree,White
+1090,Agree,Agree,White
+1091,Agree,Neutral,Hispanic or Latino
+1092,Agree,Agree,White
+1093,Agree,Agree,White
+1094,Agree,Agree,White
+1095,Agree,Agree,White
+1096,Agree,Agree,White
+1097,Agree,Agree,White
+1098,Prefer Not to Say,Agree,White
+1099,Agree,Agree,White
+1100,Neutral,Agree,White
+1101,Agree,Agree,White
+1102,Agree,Agree,Two or more races
+1103,Agree,Agree,White
+1104,Agree,Agree,White
+1105,Agree,Agree,Black or African American
+1106,Agree,Agree,White
+1107,Neutral,Agree,White
+1108,Agree,Agree,White
+1109,Agree,Agree,White
+1110,Prefer Not to Say,Neutral,Asian
+1111,Agree,Neutral,Hispanic or Latino
+1112,Agree,Agree,White
+1113,Agree,Agree,White
+1114,Agree,Agree,White
+1115,Agree,Agree,White
+1116,Agree,Agree,White
+1117,Agree,Agree,White
+1118,Agree,Agree,White
+1119,Agree,Agree,White
+1120,Agree,Agree,White
+1121,Agree,Agree,White
+1122,Agree,Agree,Hispanic or Latino
+1123,Agree,Agree,Hispanic or Latino
+1124,Neutral,Agree,White
+1125,Neutral,Agree,Hispanic or Latino
+1126,Agree,Disagree,White
+1127,Agree,Neutral,White
+1128,Agree,Agree,White
+1129,Agree,Prefer Not to Say,White
+1130,Agree,Agree,Two or more races
+1131,Agree,Agree,Asian
+1132,Agree,Agree,Asian
+1133,Disagree,Neutral,White
+1134,Agree,Agree,White
+1135,Neutral,Disagree,White
+1136,Neutral,Neutral,White
+1137,Agree,Agree,White
+1138,Agree,Agree,White
+1139,Agree,Agree,White
+1140,Agree,Agree,White
+1141,Agree,Agree,White
+1142,Agree,Neutral,White
+1143,Agree,Agree,Black or African American
+1144,Neutral,Agree,Black or African American
+1145,Agree,Agree,Asian
+1146,Agree,Neutral,White
+1147,Agree,Neutral,White
+1148,Neutral,Agree,Hispanic or Latino
+1149,Agree,Agree,White
+1150,Agree,Agree,White
+1151,Agree,Agree,Asian
+1152,Neutral,Neutral,White
+1153,Agree,Agree,White
+1154,Agree,Agree,White
+1155,Agree,Neutral,Asian
+1156,Agree,Prefer Not to Say,White
+1157,Agree,Agree,White
+1158,Agree,Agree,White
+1159,Agree,Agree,White
+1160,Neutral,Agree,White
+1161,Agree,Agree,Two or more races
+1162,Agree,Agree,Hispanic or Latino
+1163,Neutral,Neutral,Hispanic or Latino
+1164,Agree,Agree,White
+1165,Agree,Agree,Two or more races
+1166,Agree,Agree,White
+1167,Agree,Agree,Asian
+1168,Agree,Agree,Two or more races
+1169,Agree,Agree,Two or more races
+1170,Agree,Agree,Asian
+1171,Agree,Agree,White
+1172,Agree,Agree,White
+1173,Agree,Agree,White
+1174,Agree,Agree,Hispanic or Latino
+1175,Neutral,Neutral,White
+1176,Agree,Disagree,White
+1177,Agree,Agree,White
+1178,Agree,Neutral,Hispanic or Latino
+1179,Agree,Neutral,White
+1180,Agree,Agree,Asian
+1181,Agree,Agree,White
+1182,Agree,Agree,Hispanic or Latino
+1183,Prefer Not to Say,Neutral,Asian
+1184,Agree,Agree,Asian
+1185,Agree,Agree,Hispanic or Latino
+1186,Neutral,Agree,White
+1187,Agree,Agree,White
+1188,Agree,Agree,White
+1189,Agree,Agree,Asian
+1190,Agree,Agree,Hispanic or Latino
+1191,Agree,Agree,Asian
+1192,Agree,Agree,White
+1193,Agree,Agree,White
+1194,Agree,Agree,White
+1195,Neutral,Neutral,White
+1196,Neutral,Neutral,White
+1197,Agree,Agree,White
+1198,Agree,Neutral,White
+1199,Agree,Agree,White
+1200,Agree,Neutral,White
+1201,Agree,Agree,White
+1202,Agree,Agree,White
+1203,Agree,Agree,Hispanic or Latino
+1204,Agree,Prefer Not to Say,Black or African American
+1205,Agree,Agree,Black or African American
+1206,Agree,Agree,White
+1207,Agree,Agree,Hispanic or Latino
+1208,Agree,Neutral,White
+1209,Neutral,Agree,Asian
+1210,Agree,Agree,White
+1211,Agree,Agree,White
+1212,Agree,Agree,White
+1213,Agree,Neutral,White
+1214,Agree,Neutral,White
+1215,Agree,Agree,White
+1216,Agree,Agree,Hispanic or Latino
+1217,Neutral,Agree,White
+1218,Agree,Agree,Hispanic or Latino
+1219,Agree,Disagree,Asian
+1220,Agree,Agree,White
+1221,Agree,Agree,Hispanic or Latino
+1222,Agree,Agree,White
+1223,Agree,Agree,White
+1224,Agree,Agree,Black or African American
+1225,Agree,Agree,White
+1226,Neutral,Agree,White
+1227,Agree,Agree,White
+1228,Agree,Agree,Hispanic or Latino
+1229,Disagree,Disagree,White
+1230,Prefer Not to Say,Agree,White
+1231,Agree,Agree,Hispanic or Latino
+1232,Disagree,Disagree,White
+1233,Agree,Agree,Black or African American
+1234,Agree,Agree,White
+1235,Neutral,Neutral,White
+1236,Agree,Neutral,White
+1237,Agree,Agree,White
+1238,Agree,Agree,White
+1239,Agree,Agree,White
+1240,Agree,Neutral,White
+1241,Agree,Agree,White
+1242,Agree,Agree,White
+1243,Agree,Neutral,White
+1244,Agree,Agree,Asian
+1245,Agree,Agree,Hispanic or Latino
+1246,Neutral,Prefer Not to Say,White
+1247,Agree,Agree,White
+1248,Neutral,Neutral,White
+1249,Agree,Agree,White
+1250,Agree,Agree,White
+1251,Agree,Agree,White
+1252,Agree,Agree,White
+1253,Agree,Agree,White
+1254,Agree,Agree,White
+1255,Agree,Neutral,White
+1256,Agree,Agree,Asian
+1257,Agree,Agree,White
+1258,Agree,Agree,White
+1259,Neutral,Agree,White
+1260,Neutral,Agree,Asian
+1261,Agree,Neutral,White
+1262,Agree,Agree,Asian
+1263,Agree,Agree,Asian
+1264,Agree,Agree,White
+1265,Agree,Agree,White
+1266,Agree,Neutral,White
+1267,Agree,Neutral,White
+1268,Agree,Agree,Hispanic or Latino
+1269,Agree,Agree,White
+1270,Agree,Agree,White
+1271,Agree,Agree,White
+1272,Agree,Agree,Black or African American
+1273,Neutral,Neutral,White
+1274,Agree,Agree,White
+1275,Agree,Agree,White
+1276,Agree,Agree,Hispanic or Latino
+1277,Agree,Agree,White
+1278,Agree,Neutral,White
+1279,Agree,Agree,White
+1280,Agree,Agree,White
+1281,Agree,Disagree,White
+1282,Agree,Agree,White
+1283,Agree,Neutral,Two or more races
+1284,Agree,Neutral,Black or African American
+1285,Agree,Agree,White
+1286,Neutral,Neutral,White
+1287,Agree,Neutral,White
+1288,Neutral,Agree,White
+1289,Agree,Agree,White
+1290,Agree,Agree,White
+1291,Agree,Neutral,White
+1292,Agree,Agree,White
+1293,Agree,Agree,White
+1294,Agree,Agree,White
+1295,Agree,Agree,White
+1296,Agree,Agree,White
+1297,Agree,Neutral,White
+1298,Agree,Agree,White
+1299,Neutral,Agree,White
+1300,Agree,Agree,White
+1301,Agree,Agree,White
+1302,Agree,Agree,White
+1303,Agree,Agree,Hispanic or Latino
+1304,Agree,Agree,White
+1305,Agree,Agree,Hispanic or Latino
+1306,Agree,Agree,White
+1307,Agree,Agree,White
+1308,Agree,Agree,White
+1309,Agree,Agree,White
+1310,Agree,Agree,Asian
+1311,Agree,Agree,White
+1312,Agree,Agree,White
+1313,Agree,Agree,White
+1314,Agree,Agree,White
+1315,Disagree,Disagree,White
+1316,Agree,Agree,White
+1317,Agree,Agree,White
+1318,Agree,Agree,White
+1319,Agree,Agree,White
+1320,Agree,Agree,Black or African American
+1321,Agree,Agree,White
+1322,Agree,Agree,White
+1323,Agree,Agree,Asian
+1324,Neutral,Agree,White
+1325,Agree,Agree,Asian
+1326,Prefer Not to Say,Neutral,White
+1327,Agree,Agree,White
+1328,Agree,Agree,Hispanic or Latino
+1329,Agree,Disagree,White
+1330,Agree,Neutral,White
+1331,Agree,Agree,Asian
+1332,Agree,Agree,Black or African American
+1333,Neutral,Neutral,Black or African American
+1334,Agree,Neutral,Black or African American
+1335,Agree,Neutral,White
+1336,Agree,Agree,White
+1337,Agree,Agree,Hispanic or Latino
+1338,Prefer Not to Say,Prefer Not to Say,White
+1339,Agree,Agree,White
+1340,Agree,Agree,White
+1341,Agree,Agree,White
+1342,Neutral,Agree,White
+1343,Agree,Agree,Asian
+1344,Agree,Agree,Asian
+1345,Agree,Agree,White
+1346,Agree,Agree,White
+1347,Agree,Agree,White
+1348,Neutral,Agree,Asian
+1349,Agree,Agree,White
