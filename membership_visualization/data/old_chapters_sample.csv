@@ -1,0 +1,11 @@
+﻿chapter,location
+MFOL American University,"a:3:{s:7:""address"";s:56:""American University - Tenley Campus, Washington, DC, USA"";s:3:""lat"";s:17:""38.94570119999999"";s:3:""lng"";s:18:""-77.08126909999999"";}"
+"MFOL Annapolis, MD","a:3:{s:7:""address"";s:18:""Annapolis, MD, USA"";s:3:""lat"";s:17:""38.97844529999999"";s:3:""lng"";s:18:""-76.49218289999999"";}"
+MFOL Austin,"a:3:{s:7:""address"";s:15:""Austin, TX, USA"";s:3:""lat"";s:9:""30.267153"";s:3:""lng"";s:18:""-97.74306079999997"";}"
+MFOL Bakersfield,"a:3:{s:7:""address"";s:20:""Bakersfield, CA, USA"";s:3:""lat"";s:10:""35.3732921"";s:3:""lng"";s:19:""-119.01871249999999"";}"
+MFOL Bergen County,"a:3:{s:7:""address"";s:22:""Bergen County, NJ, USA"";s:3:""lat"";s:10:""40.9262762"";s:3:""lng"";s:18:""-74.07700999999997"";}"
+"MFOL Yorba Linda HS, CA","a:3:{s:7:""address"";s:63:""Yorba Linda High School, Bastanchury Road, Yorba Linda, CA, USA"";s:3:""lat"";s:17:""33.89877190000001"";s:3:""lng"";s:19:""-117.79019790000001"";}"
+MFOL Binghamton University,"a:3:{s:7:""address"";s:63:""Binghamton University, Vestal Parkway East, Binghamton, NY, USA"";s:3:""lat"";s:10:""42.0893553"";s:3:""lng"";s:18:""-75.96970490000001"";}"
+"MFOL Wilmington, NC","a:3:{s:7:""address"";s:19:""Wilmington, NC, USA"";s:3:""lat"";s:10:""34.2103894"";s:3:""lng"";s:18:""-77.88681170000001"";}"
+MFOL Boston,"a:3:{s:7:""address"";s:15:""Boston, MA, USA"";s:3:""lat"";s:10:""42.3600825"";s:3:""lng"";s:18:""-71.05888010000001"";}"
+"MFOL Sir Francis Drake HS, CA","a:3:{s:7:""address"";s:80:""Sir Francis Drake High School, Sir Francis Drake Boulevard, San Anselmo, CA, USA"";s:3:""lat"";s:9:""37.983914"";s:3:""lng"";s:11:""-122.573328"";}"
